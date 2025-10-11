@@ -2,3 +2,4 @@
 /dataset/
 /src/__pycache__/
 /images/*/*.jpg
+*.zip
