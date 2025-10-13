@@ -9,3 +9,7 @@
 /src/*.pth
 *.csv
 /src/*.csv
+/src/*.json
+/src/*.h5
+/src/*.txt
+/src/*.pkl
