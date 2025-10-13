@@ -6,3 +6,6 @@
 /tests/
 *.ini
 *.log
+/src/*.pth
+*.csv
+/src/*.csv
